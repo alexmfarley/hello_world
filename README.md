@@ -5,3 +5,5 @@ Lab Section: Thursday Lab
 
 ## About
 This is a hello_world program, which was written to learn how to use Git.
+
+Lab Partner: Samantha Horan 
